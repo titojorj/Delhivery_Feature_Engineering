@@ -1,1 +1,16 @@
 # Delhivery_Feature_Engineering
+
+**About Delhivery:**
+Delhivery is India's largest and fastest-growing fully integrated logistics player as of Fiscal 2021...
+
+**Project Objectives:**
+- Cleaning, sanitizing, and manipulating raw data...
+
+**Dataset Overview:**
+- The project uses a dataset provided by Delhivery (`delhivery_data.csv`)...
+
+**Key Data Columns:**
+- **trip_creation_time**: Timestamp of when a trip was created...
+
+**Concepts Applied:**
+- **Feature Creation**: Constructing new features...
