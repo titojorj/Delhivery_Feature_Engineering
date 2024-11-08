@@ -9,6 +9,10 @@ Delhivery is India's largest and fastest-growing fully integrated logistics play
 --Cleaning, sanitizing, and manipulating raw data to extract valuable features.
 --Understanding raw data to support predictive modeling efforts.
 
+## Project Files
+- [Delhivery_case_Study.pdf](https://github.com/username/repository-name/blob/main/Delhivery_case_Study.pdf)
+- [Delhivery_case_Study.ipynb](https://github.com/username/repository-name/blob/main/Delhivery_case_Study.ipynb)
+
 **Dataset Overview:**
 - The dataset used for this project can be accessed [here](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/551/original/delhivery_data.csv?1642751181).
 
