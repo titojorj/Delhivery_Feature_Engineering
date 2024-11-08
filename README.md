@@ -10,7 +10,7 @@ Delhivery is India's largest and fastest-growing fully integrated logistics play
 --Understanding raw data to support predictive modeling efforts.
 
 **Dataset Overview:**
-- The project uses a dataset provided by Delhivery (`delhivery_data.csv`)...
+- The dataset used for this project can be accessed [here](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/551/original/delhivery_data.csv?1642751181).
 
 **Key Data Columns:**
 - **trip_creation_time**: Timestamp of when a trip was created.
